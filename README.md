@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <a href="https://npmjs.org/package/react-vis">
     <img src="https://img.shields.io/npm/v/react-vis.svg?style=flat-square" alt="version" />
   </a>
